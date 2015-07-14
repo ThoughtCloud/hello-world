@@ -1,2 +1,3 @@
 # hello-world
-testing stuff
+Testing stuff.
+I think I'm doing this right.
